@@ -7,7 +7,7 @@
     "gatsby": "^2.13.9",
     "gatsby-theme-location-mapper": "*",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^19.1.1"
   },
   "scripts": {
     "develop": "gatsby clean && gatsby develop",
