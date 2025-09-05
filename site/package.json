@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "gatsby": "^2.13.9",
+    "gatsby": "^5.14.6",
     "gatsby-theme-location-mapper": "*",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
