@@ -6,7 +6,7 @@
   "dependencies": {
     "gatsby": "^2.13.9",
     "gatsby-theme-location-mapper": "*",
-    "react": "^16.8.6",
+    "react": "^19.1.1",
     "react-dom": "^16.8.6"
   },
   "scripts": {
