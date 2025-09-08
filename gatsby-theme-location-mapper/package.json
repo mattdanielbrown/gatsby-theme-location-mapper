@@ -24,7 +24,7 @@
     "@emotion/styled": "^10.0.14",
     "@mdx-js/mdx": "^1.0.21",
     "@mdx-js/react": "^1.0.27",
-    "gatsby-plugin-mdx": "^1.0.7",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-react-leaflet": "^2.0.11",
     "gatsby-plugin-theme-ui": "^0.2.18",
     "gatsby-source-filesystem": "^2.1.2",
