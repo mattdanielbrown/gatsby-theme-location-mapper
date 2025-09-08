@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@emotion/core": "^10.0.14",
-    "@emotion/styled": "^10.0.14",
+    "@emotion/styled": "^11.14.1",
     "@mdx-js/mdx": "^1.0.21",
     "@mdx-js/react": "^1.0.27",
     "gatsby-plugin-mdx": "^1.0.7",
